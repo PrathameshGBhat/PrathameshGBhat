@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Learning Web Development: Building skills in HTML, CSS, JavaScript, and React.<br>🚀 Passionate Learner: Constantly exploring new tools and technologies.<br>🤖 Exploring AI/ML: Recently started diving into AI and Machine Learning.<br>🔍 Problem Solver: Enjoy tackling coding challenges and real-world problems.<br>💡 Open Source Aspirant: Excited to contribute and collaborate on projects.<br>🎯 Future Goals: Aim to merge web development with AI expertise.
+🌱 Learning Web Development: Building skills in HTML, CSS, JavaScript, and React.<br>🚀 Passionate Learner: Constantly exploring new tools and technologies.<br>🤖 Exploring AI/ML: Recently started diving into AI and Machine Learning.<br>🔍 Problem Solver: Enjoy tackling coding challenges and real-world problems.<br>🎯 Future Goals: Aim to merge web development with AI expertise.
 
 
 ## 🌐 Socials:
