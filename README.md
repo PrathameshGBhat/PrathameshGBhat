@@ -1,8 +1,8 @@
 # 💫 About Me:
-🌱 Java Backend Enthusiast: Diving deep into Spring Boot, RESTful APIs, JPA, and Hibernate to build robust and scalable backend solutions.
-🚀 Passionate Learner: Constantly exploring new tools and technologies to expand my skillset.
-🔍 Problem Solver: Enjoy tackling complex coding challenges and designing efficient system architectures.
-🎯 Full-Stack Aspirations: Aiming to merge my Java backend expertise with existing knowledge in HTML, CSS, JavaScript, and React to craft complete applications.
+🌱 Java Backend Enthusiast: Diving deep into Spring Boot, RESTful APIs, JPA, and Hibernate to build robust and scalable backend solutions.<br>
+🚀 Passionate Learner: Constantly exploring new tools and technologies to expand my skillset.<br>
+🔍 Problem Solver: Enjoy tackling complex coding challenges and designing efficient system architectures.<br>
+🎯 Full-Stack Aspirations: Aiming to merge my Java backend expertise with existing knowledge in HTML, CSS, JavaScript, and React to craft complete applications.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/prxthxmeshh_?igsh=MWF6M2x6cnB2NTVlcA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/prathamesh-bhat-375443293) 
