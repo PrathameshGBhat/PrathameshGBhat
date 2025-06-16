@@ -1,6 +1,8 @@
 # 💫 About Me:
-🌱 Learning Web Development: Building skills in HTML, CSS, JavaScript, and React.<br>🚀 Passionate Learner: Constantly exploring new tools and technologies.<br>🤖 Exploring AI/ML: Recently started diving into AI and Machine Learning.<br>🔍 Problem Solver: Enjoy tackling coding challenges and real-world problems.<br>🎯 Future Goals: Aim to merge web development with AI expertise.
-
+🌱 Java Backend Enthusiast: Diving deep into Spring Boot, RESTful APIs, JPA, and Hibernate to build robust and scalable backend solutions.
+🚀 Passionate Learner: Constantly exploring new tools and technologies to expand my skillset.
+🔍 Problem Solver: Enjoy tackling complex coding challenges and designing efficient system architectures.
+🎯 Full-Stack Aspirations: Aiming to merge my Java backend expertise with existing knowledge in HTML, CSS, JavaScript, and React to craft complete applications.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/prxthxmeshh_?igsh=MWF6M2x6cnB2NTVlcA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/prathamesh-bhat-375443293) 
